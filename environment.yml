@@ -1,0 +1,13 @@
+name: soccer-dataset
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - pytest
+  - black
+  - mypy
+  - dataclasses
+  - isort
+  - pre_commit
